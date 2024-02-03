@@ -646,6 +646,9 @@ body {
     .footer_triangles {
         transform: scale(0.22);
     }
+    iframe{
+        height: 80vw;
+    }
 
 }
 
